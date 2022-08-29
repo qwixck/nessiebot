@@ -1,0 +1,7 @@
+py-cord
+python-dotenv
+chat_exporter
+youtube-dl
+PyNaCl
+pymysql
+wavelink
